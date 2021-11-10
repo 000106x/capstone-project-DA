@@ -1,19 +1,11 @@
-# capstone-project-DA
-The capstone project of Data Analysis in Business
-K18406_Group6_DA_Readme 
-*
-Folder K18406_Group6_DA_FinalProject includes:
-	1. Folder "K18406_Group6_DA_FinalReport" includes final report exported into 2 types.
+# The capstone project of Data Analysis in Business includes:
+	1. Folder "K18406_Group6_DA_FinalReport" includes final report.
 		1.1. K18406_Group6_DA_FinalReport.pdf
-		1.2. K18406_Group6_DA_FinalReport.docx
-	2. Folder ""K18406_Group6_DA_FinalReport_PPT" includes slides accompanied with the presentation session (also exported into 2 types).
-		2.1. K18406_Group6_DA_FinalReport_PPT.pptx
-		2.2. K18406_Group6_DA_FinalReport_PPT.pdf
-	3. Folder "K18406_Group6_DA_DataTools" includes file SSIS and file SSAS, particularly:
+	2. Folder "K18406_Group6_DA_DataTools" includes file SSIS and file SSAS, particularly:
 		3.1. K18406_Group6_DA_SSIS.rar
 		3.2. File includes ETL Queries for SSIS: K18406_Group6_DA_SSIS.sql 
 		3.3. K18406_Group6_DA_SSAS.rar
-	4. Folder "K18406_Group6_DA_Analyze&Visualize" inclues analyze and visualize data on Microsoft Excel, Power BI and Tableau, particularly:
+	3. Folder "K18406_Group6_DA_Analyze&Visualize" inclues analyze and visualize data on Microsoft Excel, Power BI and Tableau, particularly:
 		4.1. Folder "K18406_Group6_DA_PivotExcel" includes data analysis by Excel 
 			K18406_Group6_DA_PivotExcel.xlsx
 			K18406_Group6_DA_PivotExcel_Dashboard.pdf
@@ -27,10 +19,8 @@ Folder K18406_Group6_DA_FinalProject includes:
 			K18406_Group6_DA_Tableau_Dashboard_ProductScrapRate.pdf
 			K18406_Group6_DA_Tableau_TimeSeries_ForecastSales.pdf
 		4.5. Query data by MDX: K18406_Group6_DA_MDX.mdx
-	5. Folder "K18406_Group6_DA_Backup" includes file backup data from our datawarehouse named K18406_Group6_DA_ProductionDW.bak
-	6. File datasource "K18406_Group6_DA_DataSource_AdventureWorks2014.bak"  
-	7. File "K18406_Group6_DA_EvaluationMembers" includes table of evaluation on member's contribution while doing the project.
-	8. File "K18406_Group6_DA_ProjectManagement" includes GANTT chart while doing the project.
+	4. Folder "K18406_Group6_DA_Backup" includes file backup data from our datawarehouse named K18406_Group6_DA_ProductionDW.bak
+	5. File datasource "K18406_Group6_DA_DataSource_AdventureWorks2014.bak" 
 *
 Notes
 1. Open Microsoft SQL Server and connect databaste in by restoring "K18406_Group6_DA_ProductionDW.bak" file
